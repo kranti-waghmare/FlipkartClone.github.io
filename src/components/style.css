@@ -1,0 +1,42 @@
+
+
+.product-card img{
+
+    height: 50vh;
+    /* margin: auto; */
+    cursor: pointer;
+    /* margin: 20px; */
+}
+.product-card img{
+    height: 45vh;
+}
+
+
+.product-card:hover{
+
+    background-color: darkgray;
+    
+}
+
+
+.product-cards{
+    padding-left: 12px;
+    margin: 12px;
+    
+}
+.product-cards:hover{
+    background-color: brown;
+}
+
+.contain{
+    border: 2px solid red;
+    /* margin: auto; */
+    border-radius: 20px;
+    box-shadow: 4px solid grey;
+    width: 40vw;
+    background-image: url('https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg');
+    color: white;
+    background-position: 100% 100%;
+   
+    
+}
